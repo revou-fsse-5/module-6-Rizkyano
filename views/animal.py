@@ -5,7 +5,7 @@ animals=[
     { "id":2,"species": "Monkey", "age": 2, "gender": "Male"},
     { "id":3,"species": "Zebra", "age": 1, "gender": "Male"},
     { "id":4,"species": "Tiger", "age": 4, "gender": "Male"},
-    { "id":5,"species": "Girrafe", "age": 3, "gender": "Male"}
+    { "id":5,"species": "Giraffe", "age": 3, "gender": "Male"}
 ]
 
 def get_all_animals():
